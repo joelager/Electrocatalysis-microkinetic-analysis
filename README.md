@@ -1,7 +1,8 @@
 # Electrocatalysis-microkinetic-analysis
 
 Optimum binding energies for multi-electron transfer electrocatalyis
-Author: Joel W. Ager (jwager@lbl.gov)
+Author: Joel W. Ager (jwager@lbl.gov)  
+
 Adapts analyses in
     Ooka, H.; Nakamura, R. Shift of the Optimum Binding Energy at Higher Rates of Catalysis. J. Phys. Chem. Lett. 2019, 6706–6713.
 
