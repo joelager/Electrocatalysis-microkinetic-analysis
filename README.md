@@ -9,4 +9,6 @@ Adapts analyses in
 The optimum H binding energy is calculated for different assumptions for the relative rates of the Heyvorsky and Volmer steps of the electrochemical hydrogen oxidation reaction. 
 
 To the analyses in the paper, steady state and transient calculations of the surface coverages and current densities are added. 
+
+$\lambda$
     
