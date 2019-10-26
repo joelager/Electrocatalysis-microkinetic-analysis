@@ -40,3 +40,5 @@ hbar   = 1.0545718*10**-34 * meter**2 * kg * sec**-1;
 
 ## Other units
 eV     = 1.602176634*1e-19 * joule
+meV    = 1e-3 * eV
+kB     = R/NA
